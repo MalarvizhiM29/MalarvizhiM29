@@ -32,8 +32,10 @@
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white   " />
 </p>
 
-|<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malarvizhim29&show_icons=true&locale=en&layout=compact&theme=nightowl&show" alt="malarvizhim29" />|<img src="https://github-readme-stats.vercel.app/api?username=malarvizhim29&show_icons=true&locale=en&theme=nightowl" alt="malarvizhim29" />|
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malarvizhim29&show_icons=true&locale=en&layout=compact&theme=Dracula" alt="malarvizhim29" /></p>
 <br>
 <br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malarvizhim29&&theme=nightowl" alt="malarvizhim29"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=malarvizhim29&show_icons=true&locale=en&theme=Dracula" alt="malarvizhim29" /></p>
+<br>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malarvizhim29&&theme=Dracula" alt="malarvizhim29"></p>
