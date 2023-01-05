@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/malarvizhi m" target="blank"><img align="center" src="https://similarpng.com/black-linkedin-logo-design-on-transparent-background-png/" alt="malarvizhi m" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sece_mee026" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="sece_mee026" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sece_mee026" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fleetcode.com%2F&psig=AOvVaw2yuHsqpD7GmfSMeVVEqjai&ust=1673031858346000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCQnMCPsfwCFQAAAAAdAAAAABAI" alt="sece_mee026" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/malarvizhi m" target="blank"><img src="https://komarev.com/ghpvc/?username=malarvizhim29&label=Linkedin%20&color=0e75b6&style=flat" alt="malarvizhim29"/></a>
+<a href="https://www.codechef.com/users/sece_mee026" target="blank"><<img src="https://komarev.com/ghpvc/?username=malarvizhim29&label=Codechef%20&color=0e75b6&style=flat" alt="malarvizhim29"/></a>
+<a href="https://www.leetcode.com/sece_mee026" target="blank"><<img src="https://komarev.com/ghpvc/?username=malarvizhim29&label=Leetcode%20&color=0e75b6&style=flat" alt="malarvizhim29"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,10 +32,10 @@
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white   " />
 </p>
 
-<p background-color="black"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malarvizhim29&show_icons=true&locale=en&layout=compact" alt="malarvizhim29" /></p>
+<p background-color="black"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malarvizhim29&show_icons=true&locale=en&layout=compact&theme=nightowl&show" alt="malarvizhim29" /></p>
 <br>
 <br>
-<p><img src="https://github-readme-stats.vercel.app/api?username=malarvizhim29&show_icons=true&locale=en" alt="malarvizhim29" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=malarvizhim29&show_icons=true&locale=en&theme=nightowl&show" alt="malarvizhim29" /></p>
 <br>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malarvizhim29&" alt="malarvizhim29"></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malarvizhim29&&theme=nightowl&show" alt="malarvizhim29"></p>
