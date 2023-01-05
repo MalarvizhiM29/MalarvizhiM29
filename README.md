@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm MALARVIZHI M</h1>
 <img align="right" alt="coding" width="420" src="https://img.freepik.com/premium-vector/woman-working-with-computer-home-office-student-freelancer-customer-service-call-center-support_113065-1269.jpg?w=2000">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malarvizhim29&label=Profile%20views&color=0e75b6&style=flat" alt="malarvizhim29" style="border-radius:50%;"/> </p>
+<p align="left"> <img border-radius="50%" src="https://komarev.com/ghpvc/?username=malarvizhim29&label=Profile%20views&color=0e75b6&style=flat" alt="malarvizhim29"/> </p>
 
 - 🔭 I’m currently studing in **Sri Eshwar College of Engineering.**
 
@@ -22,17 +22,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malarvizhim29&show_icons=true&locale=en&layout=compact" alt="malarvizhim29" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=malarvizhim29&show_icons=true&locale=en" alt="malarvizhim29" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=malarvizhim29&show_icons=true&locale=en" alt="malarvizhim29" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malarvizhim29&" alt="malarvizhim29" /></p>
