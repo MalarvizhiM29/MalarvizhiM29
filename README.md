@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/malarvizhi m" target="blank"><img align="center" src="" alt="malarvizhi m" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/malarvizhi m" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FLinkedIn%2F&psig=AOvVaw14G4TsripCaUcGfeRViFTY&ust=1673031119148000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOD8zd-MsfwCFQAAAAAdAAAAABAI" alt="malarvizhi m" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sece_mee026" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="sece_mee026" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sece_mee026" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="sece_mee026" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sece_mee026" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fleetcode.com%2F&psig=AOvVaw1O261skh5PvxwLGW4oCoEF&ust=1673031406320000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDJz-iNsfwCFQAAAAAdAAAAABAE" alt="sece_mee026" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
