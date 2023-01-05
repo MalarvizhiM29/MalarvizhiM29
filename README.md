@@ -33,9 +33,7 @@
 </p>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=malarvizhim29&show_icons=true&locale=en&layout=compact&theme=dracula" alt="malarvizhim29" /></p>
-<br>
-<br>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=malarvizhim29&show_icons=true&locale=en&theme=dracula" alt="malarvizhim29" /></p>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=malarvizhim29&show_icons=true&locale=en&theme=dracula" alt="malarvizhim29" /></p>
 <br>
 <br>
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=malarvizhim29&&theme=dracula" alt="malarvizhim29"></p>
