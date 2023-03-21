@@ -20,7 +20,7 @@
 <a href="https://www.leetcode.com/sece_mee026" target="blank"><img src="https://komarev.com/ghpvc/?username=malarvizhim29&label=Leetcode%20&color=0e75b6&style=flat" alt="malarvizhim29"/></a>
 </p>
 
-<h3 align="left">### ✨ Programming Language </h3>
+<h3 align="left">✨ Programming Language </h3>
 <p align="left">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-<h3 align="left">### 💼 Web Technologies </h3>
+<h3 align="left">⚛️ Web Technologies </h3>
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -38,13 +38,13 @@
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
 </p>
 
-<h3 align="left"> ### ☁️ Cloud & Server </h3>
+<h3 align="left">☁️ Cloud & Server </h3>
 <p align="left">
 <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
 </p>
 
-<h3 align="left"> ### 🎨 Design </h3>
+<h3 align="left">🎨 Design </h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
