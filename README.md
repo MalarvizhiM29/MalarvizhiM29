@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malarvizhim29&label=Profile%20views&color=0e75b6&style=flat" alt="malarvizhim29"/> </p>
 
-- 🔭 I’m currently studing in **Sri Eshwar College of Engineering.**
+- 🔭 I’m currently working on Mr.Cooper as a **Software Engineer Trainee.**
 
-- 🌱 I’m currently learning **Full stack web development.**
+- 🌱 I’m **Full stack web developer.**
 
-- 👯 I’m passionate in **programming, web development.**
-
-- 🤝 **A Full Stack web development** Enthusiast.
+- 👯 I’m passionate **programmer, web developer.**
 
 - 📫 Reach me by **malarm2004@gmail.com**
 
